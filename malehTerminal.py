@@ -1,6 +1,22 @@
 # THIS IS THE ORIGINAL CODE FROM main.exe AKA malehTerminal.exe IN PYTHON. CREATED BY MALEH
 # FEEL FREE TO ADD SOME OWN CODE TO IT OR MAKE CHANGES TO EXISTING CODE
 
+
+
+
+
+
+
+
+#### !!!!!! THIS IS AN OLD VERSION OF MALEHTERMINAL
+
+
+
+
+
+
+
+
 import time
 import wget
 import subprocess
